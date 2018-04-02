@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MixedRealityToolkit-Unity</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Dylan-Fixe\Desktop\EscapeGame\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Dylan-Fixe\Desktop\EscapeGame\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
